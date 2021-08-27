@@ -5,6 +5,7 @@
 ```
 - Learning CS tools
 - Booing people from the bay area
+- Making a website
 ```
 
 
